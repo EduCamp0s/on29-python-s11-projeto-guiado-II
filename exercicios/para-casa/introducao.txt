@@ -1,0 +1,8 @@
+Eu escolhi este dataset porque achei mais adequado para trabalhar e criar os gráficos necessários. Encontrei-o no site recomendado pela professora. Confesso que tive muita dificuldade para escolher, pois todos os conjuntos de dados eram bastante complexos.
+Primeiramente, utilizei os comandos básicos para conectar a pasta ao dataset. Em seguida, fui adicionando tabelas, informações, dados, etc.
+Após concluir esta etapa, passei para a criação dos gráficos. Confesso que enfrentei dificuldades, pois minha tabela era muito extensa e as informações estavam difíceis de ler. No entanto, com a ajuda das colegas, consegui resolver esse problema.
+Elaborei quatro gráficos:
+1. Um que mostra a população de 15 países.
+2. Outro que representa o percentual da população urbana.
+3. Um sobre o fluxo de migração.
+4. E por último, um gráfico que ilustra a distribuição global dos países.
